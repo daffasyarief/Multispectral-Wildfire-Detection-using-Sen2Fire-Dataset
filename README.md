@@ -1,0 +1,1 @@
+# Multispectral-Wildfire-Detection-using-Sen2Fire-Dataset
