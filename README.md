@@ -4,5 +4,6 @@ The project explores how spectral information from Sentinel-2 imagery can be uti
 
 ## Dataset
 This project uses the **Sen2Fire dataset**, a multispectral satellite dataset for wildfire detection.
+
 Dataset: [Sen2Fire – Zenodo](https://zenodo.org/records/10881058)
 Paper: [Sen2Fire: A Challenging Benchmark Dataset for Wildfire Detection using Sentinel Data](https://arxiv.org/abs/2403.17884)
