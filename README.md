@@ -5,4 +5,6 @@ The project explores how spectral information from Sentinel-2 imagery can be uti
 ## Dataset
 **Sen2Fire Dataset**  
 [Download Dataset →](https://zenodo.org/records/10881058)
-> Xu, Y., Berg, A., & Haglund, L. (2024). *Sen2Fire: A Challenging Benchmark Dataset for Wildfire Detection using Sentinel Data.*
+**Paper**
+[Sen2Fire: A Challenging Benchmark Dataset for Wildfire Detection using Sentinel Data](https://arxiv.org/abs/2403.17884)
+
